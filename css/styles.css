@@ -145,9 +145,14 @@ body {
 
 .socials p, .socials a {
   text-decoration: none;
-  color: #de2db4;
+  color: #000000;
   margin-left: 5px; 
   text-align: left;
+}
+
+.socials a:hover {
+  text-decoration: underline;
+  color: #de2db4;
 }
 
 .email-icon{
@@ -256,4 +261,5 @@ h5 {
   border-radius: 5px 5px 0 0;
   transition: 0.2s;
 }
+
 
