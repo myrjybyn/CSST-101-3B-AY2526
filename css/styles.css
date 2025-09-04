@@ -232,7 +232,7 @@ body {
 }
 
 .lab-act p {
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 0;
 }
 
@@ -256,3 +256,4 @@ h5 {
   border-radius: 5px 5px 0 0;
   transition: 0.2s;
 }
+
